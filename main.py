@@ -1,7 +1,8 @@
 # ---------------------- Edit these two variables to your liking! ----------------------
 
 
-# Keys to be pressed - each key should be in '' and separated by commas OUTSIDE the marks
+# Keys to be pressed - each key should be in '' and separated by commas OUTSIDE the marks. 
+# Check key-names.txt if you can't get a specific key to work.
 key = ['space']
 
 # Replace this with how often (in seconds) you want the key to be pressed - DON'T ADD ''
