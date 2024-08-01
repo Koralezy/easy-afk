@@ -3,7 +3,7 @@ Easy AFK presses a button(s) of your choice at intervals specified by you. It ca
 
 ## How to use
 1. Make sure you have Python installed. Versions 3.4 and up are supported.
-2. Pull the repository or just download main.py.
+2. Pull the repository or just download easyAFK.py.
 3. ***You need to download PyDirectinput for this program to function.*** Run `pip install pydirectinput` in your terminal
 4. Open main.py and edit the 2 variables at the top. Check [here](https://github.com/Koralezy/easy-afk/blob/main/key-names.txt) for the names of the keys if you can't find them.
 
